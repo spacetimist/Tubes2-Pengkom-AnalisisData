@@ -11,6 +11,6 @@ Kelompok 9:
     Yasra Zhafirah - 19622117
     Akmal Galih Aji Sugmo Seno - 19622157
 
-LINK Video Presentasi:
+LINK Video Presentasi: https://drive.google.com/file/d/1pOSALWw6PAEt9jjpJz-JLboQ3VTG3995/view
 
 LINK Laporan: https://docs.google.com/document/d/15EDYapUHtXzmS0uukoCpy15EbOwAgJvFJVwKG2sUxHE/edit
