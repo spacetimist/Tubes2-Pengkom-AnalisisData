@@ -1,6 +1,8 @@
 # Analisis Data
 Tugas Besar 2 Mata Kuliah KU1102 Pengenalan Komputasi K-21 Semester 1
 
+Analisis Data Penjualan Games PS4
+
 Kelompok 9:
 
     A.A. Radheya Seva Marthariyana - 16522017
