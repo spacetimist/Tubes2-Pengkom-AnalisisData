@@ -12,3 +12,4 @@ Kelompok 9:
     Akmal Galih Aji Sugmo Seno - 19622157
 
 LINK Video Presentasi:
+LINK Laporan: https://docs.google.com/document/d/15EDYapUHtXzmS0uukoCpy15EbOwAgJvFJVwKG2sUxHE/edit
